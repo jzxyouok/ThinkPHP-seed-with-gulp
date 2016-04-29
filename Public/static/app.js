@@ -1,0 +1,1 @@
+var $=function(e){return console.log(e),document.getElementById(e)};$("app").insertHTML("<p>Hello world</p>");

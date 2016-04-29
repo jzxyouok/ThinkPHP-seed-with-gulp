@@ -1,0 +1,6 @@
+.phpintel
+.idea
+App/Runtime
+node_modules
+bower_components
+sftp-config.json
